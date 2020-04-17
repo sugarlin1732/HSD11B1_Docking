@@ -1,0 +1,274 @@
+BindingDB_50317213_mol_1
+
+Vconf v2.0 Academic SN VC001-00000579
+ 58 62  0  0  0  0  0  0  0  0999 V2000
+    8.7070   -8.2080    1.3990 C   0  0  0  0  0  0  0  0  0  0  0
+    8.4740   -7.5290    0.0360 C   0  0  1  0  0  0  0  0  0  0  0
+   10.2050   -8.5190    1.5680 C   0  0  2  0  0  0  0  0  0  0  0
+    9.2820   -6.2200   -0.0280 C   0  0  0  0  0  0  0  0  0  0  0
+   11.0120   -7.2090    1.5010 C   0  0  0  0  0  0  0  0  0  0  0
+   10.7840   -6.5330    0.1350 C   0  0  1  0  0  0  0  0  0  0  0
+   10.6620   -9.4620    0.4390 C   0  0  0  0  0  0  0  0  0  0  0
+   10.4340   -8.7830   -0.9250 C   0  0  1  0  0  0  0  0  0  0  0
+    8.9340   -8.4710   -1.0920 C   0  0  0  0  0  0  0  0  0  0  0
+   11.2640   -7.4790   -0.9870 C   0  0  1  0  0  0  0  0  0  0  0
+   11.6070   -7.3020   -3.4080 C   0  0  0  0  0  0  0  0  0  0  0
+   11.4160   -6.5320   -4.6480 C   0  0  2  0  0  0  0  0  0  0  0
+   12.2050   -8.4000   -3.4540 O   0  0  0  0  0  0  0  0  0  0  0
+   10.7720   -5.2230   -4.4080 N   0  0  0  0  0  0  0  0  0  0  0
+   10.1350   -4.8770   -5.6850 C   0  0  0  0  0  0  0  0  0  0  0
+    9.5270   -6.1960   -6.1590 C   0  0  0  0  0  0  0  0  0  0  0
+   10.4980   -7.2630   -5.6480 C   0  0  0  0  0  0  0  0  0  0  0
+   11.7360   -4.1910   -3.9730 C   0  0  0  0  0  0  0  0  0  0  0
+   10.9920   -2.9600   -3.4290 C   0  0  0  0  0  0  0  0  0  0  0
+   10.1150   -3.2990   -2.2200 C   0  0  0  0  0  0  0  0  0  0  0
+    9.9330   -1.9710   -1.4770 C   0  0  0  0  0  0  0  0  0  0  0
+   11.0680   -1.0500   -1.9510 C   0  0  0  0  0  0  0  0  0  0  0
+   11.9460   -1.9000   -2.8760 C   0  0  0  0  0  0  0  0  0  0  0
+   11.1380   -6.8180   -2.2390 N   0  0  0  0  0  0  0  0  0  0  0
+    8.1320   -9.1340    1.4500 H   0  0  0  0  0  0  0  0  0  0  0
+    8.3780   -7.5450    2.2000 H   0  0  0  0  0  0  0  0  0  0  0
+    7.4130   -7.3080   -0.0840 H   0  0  0  0  0  0  0  0  0  0  0
+   10.3710   -9.0000    2.5330 H   0  0  0  0  0  0  0  0  0  0  0
+    9.1040   -5.7320   -0.9860 H   0  0  0  0  0  0  0  0  0  0  0
+    8.9600   -5.5510    0.7700 H   0  0  0  0  0  0  0  0  0  0  0
+   12.0740   -7.4260    1.6290 H   0  0  0  0  0  0  0  0  0  0  0
+   10.6910   -6.5400    2.2990 H   0  0  0  0  0  0  0  0  0  0  0
+   11.3550   -5.6050    0.0980 H   0  0  0  0  0  0  0  0  0  0  0
+   10.0920  -10.3910    0.4850 H   0  0  0  0  0  0  0  0  0  0  0
+   11.7210   -9.6920    0.5600 H   0  0  0  0  0  0  0  0  0  0  0
+   10.7500   -9.4650   -1.7140 H   0  0  0  0  0  0  0  0  0  0  0
+    8.3610   -9.3980   -1.0490 H   0  0  0  0  0  0  0  0  0  0  0
+    8.7610   -7.9970   -2.0590 H   0  0  0  0  0  0  0  0  0  0  0
+   12.3170   -7.7140   -0.8180 H   0  0  0  0  0  0  0  0  0  0  0
+   12.3880   -6.3760   -5.1210 H   0  0  0  0  0  0  0  0  0  0  0
+    9.3620   -4.1210   -5.5510 H   0  0  0  0  0  0  0  0  0  0  0
+   10.8750   -4.5360   -6.4110 H   0  0  0  0  0  0  0  0  0  0  0
+    8.5490   -6.3350   -5.6970 H   0  0  0  0  0  0  0  0  0  0  0
+    9.4380   -6.2220   -7.2460 H   0  0  0  0  0  0  0  0  0  0  0
+    9.9350   -8.0730   -5.1800 H   0  0  0  0  0  0  0  0  0  0  0
+   11.0920   -7.6590   -6.4730 H   0  0  0  0  0  0  0  0  0  0  0
+   12.3660   -4.5900   -3.1770 H   0  0  0  0  0  0  0  0  0  0  0
+   12.3780   -3.8930   -4.8040 H   0  0  0  0  0  0  0  0  0  0  0
+   10.3770   -2.5140   -4.2120 H   0  0  0  0  0  0  0  0  0  0  0
+   10.6360   -4.0050   -1.5720 H   0  0  0  0  0  0  0  0  0  0  0
+    9.1570   -3.7160   -2.5330 H   0  0  0  0  0  0  0  0  0  0  0
+    8.9690   -1.5290   -1.7330 H   0  0  0  0  0  0  0  0  0  0  0
+    9.9910   -2.1310   -0.4000 H   0  0  0  0  0  0  0  0  0  0  0
+   10.6490   -0.2130   -2.5110 H   0  0  0  0  0  0  0  0  0  0  0
+   11.6480   -0.6770   -1.1070 H   0  0  0  0  0  0  0  0  0  0  0
+   12.7380   -2.3740   -2.2940 H   0  0  0  0  0  0  0  0  0  0  0
+   12.3780   -1.2980   -3.6770 H   0  0  0  0  0  0  0  0  0  0  0
+   10.6970   -5.9550   -2.2590 H   0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1 25  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 27  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 29  1  0  0  0  0
+  4 30  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 31  1  0  0  0  0
+  5 32  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 33  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 34  1  0  0  0  0
+  7 35  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 36  1  0  0  0  0
+  9 37  1  0  0  0  0
+  9 38  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 39  1  0  0  0  0
+ 12 11  1  1  0  0  0
+ 11 13  2  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 40  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 41  1  0  0  0  0
+ 15 42  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 43  1  0  0  0  0
+ 16 44  1  0  0  0  0
+ 17 45  1  0  0  0  0
+ 17 46  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 47  1  0  0  0  0
+ 18 48  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 19 49  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 50  1  0  0  0  0
+ 20 51  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 52  1  0  0  0  0
+ 21 53  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 54  1  0  0  0  0
+ 22 55  1  0  0  0  0
+ 23 56  1  0  0  0  0
+ 23 57  1  0  0  0  0
+ 24 58  1  0  0  0  0
+M  END
+> <From>
+www.bindingDB.org
+
+> <BindingDB Reactant_set_id>
+50574360
+
+> <Ligand InChI>
+InChI=1S/C21H34N2O/c24-21(19-6-3-7-23(19)13-14-4-1-2-5-14)22-20-17-9-15-8-16(11-17)12-18(20)10-15/h14-20H,1-13H2,(H,22,24)/t15?,16?,17?,18?,19-,20?/m1/s1
+
+> <Ligand InChI Key>
+VUHCMAVSZJDZHF-RDOIFFKNSA-N
+
+> <BindingDB MonomerID>
+50317213
+
+> <BindingDB Ligand Name>
+(2R)-N-(adamantan-2-yl)-1-(cyclopentylmethyl)pyrrolidine-2-carboxamide::CHEMBL1096870
+
+> <Target Name Assigned by Curator or DataSource>
+11-beta-hydroxysteroid dehydrogenase 1
+
+> <Target Source Organism According to Curator or DataSource>
+Homo sapiens
+
+> <Ki (nM)>
+
+
+> <IC50 (nM)>
+ 0.03
+
+> <Kd (nM)>
+
+
+> <EC50 (nM)>
+
+
+> <kon (M-1-s-1)>
+
+
+> <koff (s-1)>
+
+
+> <pH>
+
+
+> <Temp C>
+
+
+> <Curation/DataSource>
+ChEMBL
+
+> <Article DOI>
+10.1016/j.bmcl.2010.03.032
+
+> <PMID>
+20363126
+
+> <PubChem AID>
+
+
+> <Patent Number>
+
+
+> <Authors>
+Cheng, H; Hoffman, J; Le, P; Nair, SK; Cripps, S; Matthews, J; Smith, C; Yang, M; Kupchinsky, S; Dress, K; Edwards, M; Cole, B; Walters, E; Loh, C; Ermolieff, J; Fanjul, A; Bhat, GB; Herrera, J; Pauly, T; Hosea, N; Paderes, G; Rejto, P
+
+> <Institution>
+Pfizer Global Research&amp; Development
+
+> <Link to Ligand in BindingDB>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50317213
+
+> <Link to Ligand-Target Pair in BindingDB>
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=pol&polymerid=1406&target=11-beta-hydroxysteroid+dehydrogenase+1&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Link to Ligand-Target Pair in BindingDB>
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=50317213&enzyme=11-beta-hydroxysteroid+dehydrogenase+1&column=ki&startPg=0&Increment=50&submit=Search
+
+> <Ligand HET ID in PDB>
+
+
+> <PDB ID(s) for Ligand-Target Complex>
+
+
+> <PubChem CID>
+11667087
+
+> <PubChem SID>
+104151574
+
+> <ChEBI ID of Ligand>
+
+
+> <ChEMBL ID of Ligand>
+CHEMBL1096870
+
+> <DrugBank ID of Ligand>
+
+
+> <IUPHAR_GRAC ID of Ligand>
+
+
+> <KEGG ID of Ligand>
+
+
+> <ZINC ID of Ligand>
+ZINC13986843
+
+> <Number of Protein Chains in Target (>1 implies a multichain complex)>
+1
+
+> <BindingDB Target Chain Sequence>
+MAFMKKYLLPILGLFMAYYYYSANEEFRPEMLQGKKVIVTGASKGIGREMAYHLAKMGAHVVVTARSKETLQKVVSHCLELGAASAHYIAGTMEDMTFAEQFVAQAGKLMGGLDMLILNHITNTSLNLFHDDIHHVRKSMEVNFLSYVVLTVAALPMLKQSNGSIVVVSSLAGKVAYPMVAAYSASKFALDGFFSSIRKEYSVSRVNVSITLCVLGLIDTETAMKAVSGIVHMQAAPKEECALEIIKGGALRQEEVYYDSSLWTTLLIRNPCRKILEFLYSTSYNMDRFINK
+
+> <PDB ID(s) of Target Chain>
+
+
+> <UniProt (SwissProt) Recommended Name of Target Chain>
+Corticosteroid 11-beta-dehydrogenase isozyme 1
+
+> <UniProt (SwissProt) Entry Name of Target Chain>
+DHI1_HUMAN
+
+> <UniProt (SwissProt) Primary ID of Target Chain>
+P28845
+
+> <UniProt (SwissProt) Secondary ID(s) of Target Chain>
+B2R9Z1,D3DT89
+
+> <UniProt (SwissProt) Alternative ID(s) of Target Chain>
+
+
+> <UniProt (TrEMBL) Submitted Name of Target Chain>
+
+
+> <UniProt (TrEMBL) Entry Name of Target Chain>
+
+
+> <UniProt (TrEMBL) Primary ID of Target Chain>
+
+
+> <UniProt (TrEMBL) Secondary ID(s) of Target Chain>
+
+
+> <UniProt (TrEMBL) Alternative ID(s) of Target Chain>
+
+
+$$$$
+

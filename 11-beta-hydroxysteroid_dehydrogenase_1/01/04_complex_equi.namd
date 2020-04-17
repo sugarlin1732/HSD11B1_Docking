@@ -1,0 +1,57 @@
+structure       ionized.psf
+coordinates     ionized.pdb
+bincoordinates  complex_equi_rst.coor
+binvelocities   complex_equi_rst.vel
+extendedSystem  complex_equi_rst.xsc
+paraTypeCharmm  on
+
+parameters      ../toppar_charmm36/toppar/par_all36_prot.prm
+parameters      ../toppar_charmm36/toppar/par_all36_na.prm
+parameters      ../toppar_charmm36/toppar/par_all36_lipid.prm
+parameters      ../toppar_charmm36/toppar/par_all36_carb.prm
+parameters      ../toppar_charmm36/toppar/par_all36_cgenff.prm
+parameters      ../toppar_charmm36/toppar/toppar_water_ions_namd.str
+parameters      AAA.par
+
+outputEnergies  1000
+outputTiming    1000
+xstFreq         1000
+dcdFreq         1000
+wrapAll         on
+wrapNearest     on
+timestep        1
+nonBondedFreq   2
+fullElectFrequency 4
+stepsPerCycle    20
+switching        on
+switchDist       10
+cutoff           12
+pairlistdist     14
+Pme              on
+PmeGridsizeX     100
+PmeGridsizeY     100
+PmeGridsizeZ     100
+exclude          scaled1-4
+1-4scaling       1.0
+langevin                 on
+langevinDamping          1
+langevinTemp             300
+langevinHydrogen         on
+langevinPiston           on
+langevinPistonTarget     1.01325
+langevinPistonPeriod     200
+langevinPistonDecay      100
+langevinPistonTemp       300
+binaryoutput     off
+outputname       complex_equi2_out
+restartname      complex_equi2_rst
+##########
+#constraints      on
+#consexp          10
+#consref          ../../../cons_ref.pdb
+#conskfile        ../../../cons_ref.pdb
+#conskcol         B
+#constraintScaling 0.1
+##########
+restartfreq      1000
+run              5000000

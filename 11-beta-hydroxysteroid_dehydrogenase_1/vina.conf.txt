@@ -1,0 +1,13 @@
+receptor = protein.pdbqt 
+ligand =drug_H.pdbqt 
+center_x = -50.73
+center_y = 18.30
+center_z =  -11.12
+size_x = 80
+size_y = 60
+size_z =  60
+out = vina.out.pdbqt 
+log = vina.log.txt 
+exhaustiveness = 8 
+num_modes = 9 
+energy_range = 3 

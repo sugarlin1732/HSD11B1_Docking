@@ -1,0 +1,18 @@
+package require psfgen
+topology toppar/top_all36_prot.rtf
+topology toppar/top_all36_na.rtf
+topology toppar/top_all36_lipid.rtf
+topology toppar/top_all36_carb.rtf
+#topology toppar/top_all36_cgenff.rtf
+topology AAA.top
+topology AAA.par
+pdbalias residue HIS HSE
+#pdbalias residue CSW CYS
+#pdbalias residue CSO CYS
+pdbalias atom ILE CD1 CD
+segment X {pdb final_drug.pdb;first none;last none}
+coordpdb final_drug.pdb X
+guesscoord
+writepdb drug_H.pdb
+writepsf drug_H.psf
+exit

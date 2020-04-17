@@ -1,0 +1,32 @@
+structure       complex_no_water.psf
+#coordinates     complex_no_water.pdb
+paraTypeCharmm  on
+parameters      ../toppar_charmm36/toppar/par_all36_prot.prm
+parameters      ../toppar_charmm36/toppar/par_all36_na.prm
+parameters      ../toppar_charmm36/toppar/par_all36_lipid.prm
+parameters      ../toppar_charmm36/toppar/par_all36_carb.prm
+parameters      ../toppar_charmm36/toppar/par_all36_cgenff.prm
+parameters      ../toppar_charmm36/toppar/toppar_water_ions_namd.str
+parameters      AAA.par
+wrapAll         on
+wrapNearest     on
+timestep        1
+nonBondedFreq   2
+fullElectFrequency 4
+switching    on
+switchDist   16
+cutoff       18
+pairlistdist 20
+#GBSA
+GBIS         on
+ionConcentration 0.3
+alphaCutoff  14
+sasa         on
+surfaceTension 0.006
+
+coorfile open complex_no_water.dcd
+while { ![coorfile read] } {
+    run 0
+}
+
+coorfile close

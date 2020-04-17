@@ -1,0 +1,36 @@
+package require psfgen
+
+topology toppar/top_all36_prot.rtf
+topology toppar/top_all36_na.rtf
+topology toppar/top_all36_lipid.rtf
+topology toppar/top_all36_carb.rtf
+topology toppar/toppar_water_ions.str
+topology AAA.top
+
+
+pdbalias residue HIS HSE
+pdbalias atom ILE CD1 CD
+
+
+segment A {pdb 3pdj_A.pdb;first nter;last cter}
+segment B {pdb 3pdj_B.pdb;first nter;last cter}
+#segment Z {pdb zinc.pdb;first none;last none}
+segment X {pdb 09.pdb;first none;last none}
+#patch ZNSP Z:401 A:193 A:196 A:228 A:230 
+
+
+coordpdb 3pdj_A.pdb A
+coordpdb 3pdj_B.pdb B
+#coordpdb zinc.pdb Z
+coordpdb 09.pdb X
+
+
+
+
+guesscoord
+
+
+
+writepdb protein_ligand_09.pdb
+writepsf protein_ligand_09.psf
+exit

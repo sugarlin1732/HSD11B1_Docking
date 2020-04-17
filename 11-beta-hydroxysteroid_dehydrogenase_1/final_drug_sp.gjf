@@ -1,0 +1,6 @@
+%chk=final_drug_sp.chk
+%nproc=8
+%mem=4GB
+# RHF/6-31G* Geom=(AllCheck,NewRedundant) Freq NoSymm Pop=(ESP,NPA) IOp(6/33=2,7/33=1) SCF=Tight
+
+
